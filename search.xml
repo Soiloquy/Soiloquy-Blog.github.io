@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/Soiloquy-Blog.github.io/2023/01/05/hello-world/"/>
-      <url>/Soiloquy-Blog.github.io/2023/01/05/hello-world/</url>
+      <title>我的第一篇博客</title>
+      <link href="/Soiloquy-Blog.github.io/2023/01/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+      <url>/Soiloquy-Blog.github.io/2023/01/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Git常用命令"><a href="#Git常用命令" class="headerlink" title="Git常用命令"></a>Git常用命令</h1><h3 id="本地库初始化：git-init"><a href="#本地库初始化：git-init" class="headerlink" title="本地库初始化：git init"></a>本地库初始化：git init</h3><h3 id="设置签名："><a href="#设置签名：" class="headerlink" title="设置签名："></a>设置签名：</h3><h5 id="git-config-–global-user-name-设置全局用户名"><a href="#git-config-–global-user-name-设置全局用户名" class="headerlink" title="git config –global user.name 设置全局用户名"></a>git config –global user.name 设置全局用户名</h5><h5 id="git-config-–global-user-email-设置全局邮箱名"><a href="#git-config-–global-user-email-设置全局邮箱名" class="headerlink" title="git config –global user.email 设置全局邮箱名"></a>git config –global user.email 设置全局邮箱名</h5><h6 id="保存位置-x2F-gitconfig"><a href="#保存位置-x2F-gitconfig" class="headerlink" title="保存位置 ~&#x2F;.gitconfig"></a>保存位置 ~&#x2F;.gitconfig</h6><h3 id="提交文件"><a href="#提交文件" class="headerlink" title="提交文件"></a>提交文件</h3><ul><li>git status 查看文件状态</li><li>git add 添加文件到暂存区</li><li>1.git commit 提交文件到本地库 2.git commit -m “描述内容”</li><li>git remote add origin 添加远程库的别名</li><li>git push origin master 添加到远程库</li></ul>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
       
     </entry>
     
